@@ -1,0 +1,19 @@
+{
+  "name": "t1s2",
+  "version": "0.0.1",
+  "description": "Tarea 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node index"
+  },
+  "keywords": [
+    "intro",
+    "npm",
+    "nodejs",
+    "semana",
+    "progra4"
+  ],
+  "author": "Sergio Padilla",
+  "license": "ISC"
+}
